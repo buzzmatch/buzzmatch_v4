@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+    get: ^4.6.5 # Add this line (use the latest version if available)
 
   # Add any additional dependencies here
 

@@ -1,0 +1,13 @@
+<script>start("/Users/dimaaleidi/Documents/BuzzMatch/buzzmatch_v4/lib/lib_backup/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("constants","constants",1,192,"192 B",1740827334,"3/1/25, 2:08:54 PM");</script>
+<script>addRow("controllers","controllers",1,96,"96 B",1740827334,"3/1/25, 2:08:54 PM");</script>
+<script>addRow("models","models",1,320,"320 B",1740827334,"3/1/25, 2:08:54 PM");</script>
+<script>addRow("routes","routes",1,128,"128 B",1740827334,"3/1/25, 2:08:54 PM");</script>
+<script>addRow("screens","screens",1,352,"352 B",1740827340,"3/1/25, 2:09:00 PM");</script>
+<script>addRow("services","services",1,288,"288 B",1740827334,"3/1/25, 2:08:54 PM");</script>
+<script>addRow("utils","utils",1,96,"96 B",1740827334,"3/1/25, 2:08:54 PM");</script>
+<script>addRow("widgets","widgets",1,96,"96 B",1740827342,"3/1/25, 2:09:02 PM");</script>
+<script>addRow("app_binding.dart","app_binding.dart",0,751,"751 B",1740827274,"3/1/25, 2:07:54 PM");</script>
+<script>addRow("firebase_options.dart","firebase_options.dart",0,2460,"2.4 kB",1740827274,"3/1/25, 2:07:54 PM");</script>
+<script>addRow("main.dart","main.dart",0,4155,"4.1 kB",1740827274,"3/1/25, 2:07:54 PM");</script>
